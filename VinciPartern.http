@@ -1,0 +1,6 @@
+@VinciPartern_HostAddress = http://localhost:5197
+
+GET {{VinciPartern_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
